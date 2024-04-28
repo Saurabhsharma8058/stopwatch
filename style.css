@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.stopwatch {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+p {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
+}
